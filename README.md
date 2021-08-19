@@ -1,2 +1,2 @@
 # GB_shop
-geek brain lesson
+Создание интернет-магазина одежды
